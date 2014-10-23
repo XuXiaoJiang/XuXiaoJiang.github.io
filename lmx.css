@@ -1,0 +1,14 @@
+body
+{
+	width: 100%
+}
+
+a {
+	color: blue;
+	text-decoration: none;
+}
+
+pre
+{
+	font-size: 15px;
+}
